@@ -1,0 +1,1 @@
+Creating Custom Model Managers in Django
